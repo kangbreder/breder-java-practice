@@ -22,7 +22,7 @@ public class toDo{
 
 
     while(choice!=3){
-    System.out.println("Choose an Option");
+    System.out.println("Choose an Option");++01
     
     switch(choice){
         //adding items to list
